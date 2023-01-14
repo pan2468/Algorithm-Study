@@ -12,7 +12,7 @@
 
 
 ### 플로우 차트 순서도 
-img width="493" alt="image" src="https://user-images.githubusercontent.com/58936137/212462333-e591b575-6e02-4db7-bd06-96cbfd4dfd1f.png">
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/58936137/212462333-e591b575-6e02-4db7-bd06-96cbfd4dfd1f.png">
 
 
 ### 해결 코드
