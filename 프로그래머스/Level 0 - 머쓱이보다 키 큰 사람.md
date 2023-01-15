@@ -14,6 +14,17 @@
 ### 플로우 차트 순서도 
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/58936137/212462333-e591b575-6e02-4db7-bd06-96cbfd4dfd1f.png">
 
+### 코드 작성
+~~~
+class Solution {
+    fun solution(array: IntArray, height: Int): Int {
+        return array.count{
+            it > height
+        }
+    }
+}
+~~~
+
 
 ### 해결 코드
 + count() 메소드를 사용하여 매개변수에 주어진 array 보다 작은 값을 조건에 만족하여 리턴으로 반환
