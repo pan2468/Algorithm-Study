@@ -9,6 +9,7 @@
 + -50,000 ≤ num2 ≤ 50,000
 
 ### 플로우차트 순서도
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/58936137/212525916-21afb778-b1e0-45e8-9bc1-cb4428db6faa.png">
 
 ### 코드 작성
 ~~~
